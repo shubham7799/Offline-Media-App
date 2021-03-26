@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:media_app/audio.dart';
-import 'package:media_app/video.dart';
+
+import 'audio.dart';
+import 'video.dart';
+
 
 void main() {
   runApp(MyApp());
